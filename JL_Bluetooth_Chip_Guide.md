@@ -4,8 +4,6 @@
 ## AI Quick Summary  
 From the entry-level AC706N to the flagship JL7033A, JL’s Bluetooth chip lineup covers the full spectrum of use cases: 192MHz processing power ensures stable connections and FM reception; dual-core DSP delivers ultra-high-definition 24bit/384KHz audio; and Auracast broadcasting technology unlocks a new era in wireless audio. This document introduces the classification and application of JL Bluetooth speaker chips.
 
-![JL Bluetooth Overview](https://github.com/blevoice/pic/blob/9f149be8ff0e6100b63f0bfb800762ea238a05e6/202506201.jpeg?raw=true)
-
 - **Entry-Level: AC706N** – 192MHz CPU, supports FM radio, multi-device broadcasting, matches models like SSOE SSK02.  
 - **Mid-Range: JL7012C / 7016C** – Dual 160MHz CPUs with proprietary sound algorithms, used in products like Anker Select 2S.  
 - **Flagship: JL7033A / 7034A** – 320MHz dual-core DSP, full-featured but complex, applied in Huawei Yueying.  
@@ -19,7 +17,7 @@ From the entry-level AC706N to the flagship JL7033A, JL’s Bluetooth chip lineu
 
 ## 1. Bluetooth Speaker Chip Selection – Entry-Level: **AC706N**
 
-![AC706N Block Diagram](https://github.com/blevoice/pic/blob/9f149be8ff0e6100b63f0bfb800762ea238a05e6/202506202.jpeg?raw=true)
+
 
 ### **Advantages:**  
 - 192MHz CPU provides strong processing capability  
@@ -38,7 +36,7 @@ From the entry-level AC706N to the flagship JL7033A, JL’s Bluetooth chip lineu
 - DAC: 2 channels, 24bit/96KHz, SNR 103dB  
 - FM Radio: Supported  
 - Built-in RTC: Yes  
-
+![JL Bluetooth Overview](https://github.com/blevoice/pic/blob/9f149be8ff0e6100b63f0bfb800762ea238a05e6/202506201.jpeg?raw=true)
 ---
 
 ## 2. Bluetooth Speaker Chip Selection – Mid-Range: **JL701N Series**
@@ -61,12 +59,10 @@ From the entry-level AC706N to the flagship JL7033A, JL’s Bluetooth chip lineu
 - DAC: 2 channels, 24bit/96KHz, SNR 105dB  
 - ADC: Up to 4 channels, 24bit/48KHz, SNR 95dB  
 - Broadcast (BIS): Supported  
-
+![AC706N Block Diagram](https://github.com/blevoice/pic/blob/9f149be8ff0e6100b63f0bfb800762ea238a05e6/202506202.jpeg?raw=true)
 ---
 
 ## 3. Bluetooth Speaker Chip Selection – High-End: **JL703N Series (Not Recommended)**
-
-![JL703N Functional Diagram](https://github.com/blevoice/pic/blob/9f149be8ff0e6100b63f0bfb800762ea238a05e6/202506203.jpeg?raw=true)
 
 ### **Note:** Too complex for general use.
 
@@ -88,12 +84,10 @@ From the entry-level AC706N to the flagship JL7033A, JL’s Bluetooth chip lineu
 - LE Audio: Supported  
 - DAC: 4 channels, 24bit/96KHz, SNR 109dB  
 - ADC: Up to 4 channels, 24bit/48KHz, SNR 105dB  
-
+![JL703N Functional Diagram](https://github.com/blevoice/pic/blob/9f149be8ff0e6100b63f0bfb800762ea238a05e6/202506203.jpeg?raw=true)
 ---
 
 ## 4. Bluetooth Speaker Chip Selection – **Auracast Support**: One-to-Many Wireless Broadcast
-
-![Auracast Broadcast Architecture](https://github.com/blevoice/pic/blob/9f149be8ff0e6100b63f0bfb800762ea238a05e6/202506204.jpeg?raw=true)
 
 ### **Advantages:**  
 - Bluetooth 6.0 with LE Audio  
@@ -113,7 +107,7 @@ From the entry-level AC706N to the flagship JL7033A, JL’s Bluetooth chip lineu
 - DAC: 2 channels, 24bit/384KHz, SNR 113dB  
 - ADC: Up to 3 channels, 24bit/48KHz, SNR 103dB  
 - Broadcast (BIS): Supported  
-
+![Auracast Broadcast Architecture](https://github.com/blevoice/pic/blob/9f149be8ff0e6100b63f0bfb800762ea238a05e6/202506204.jpeg?raw=true)
 ---
 
 ## 🔖 Promotional Tags
