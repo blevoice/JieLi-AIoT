@@ -1,4 +1,5 @@
 # Global Bluetooth Chip Market Trends in 2025: Key Dynamics and Technological Advancements
+![Market Growth](https://github.com/blevoice/pic/blob/0b4228aa13fece4702adaba6c975aa64617d2bfa/062901.png)
 
 ## 1. Market Scale and Growth
 - **Global Shipments**: Projected to reach 7.5 billion units in 2025 (13% YoY growth)
@@ -7,8 +8,6 @@
   - BLE chip market size: ¥46.288 billion 
   - Annual growth: >20%
   - Smart home applications contribute >50% of demand
-
-![Market Growth](https://github.com/blevoice/pic/blob/0b4228aa13fece4702adaba6c975aa64617d2bfa/062901.png)
 
 ## 2. Competitive Landscape & Key Players
 
