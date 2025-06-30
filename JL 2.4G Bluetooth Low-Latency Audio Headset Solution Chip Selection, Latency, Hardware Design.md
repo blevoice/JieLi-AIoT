@@ -31,7 +31,7 @@ This document introduces JL's low-latency audio headset solution using 2.4G/Blue
 
 These values are excellent for gaming and multimedia scenarios where low latency is crucial.
 
-![Solution Overview](https://github.com/blevoice/pic/blob/16e49ad372de95307cbbf40a83848b93e3f134a6/063001.png)
+![Solution Overview](https://github.com/blevoice/pic/blob/16e49ad372de95307cbbf40a83848b93e3f134a6/063011.png)
 
 ## 4. JL 2.4G Bluetooth Low-Latency Headset Solution Overview
 
@@ -70,7 +70,7 @@ These values are excellent for gaming and multimedia scenarios where low latency
 - **Headband-style gaming headset**: JL7086E + JL7083F
 - **TWS-style earbuds**: JL7086E + JL7083G
 
-![Power Consumption](https://github.com/blevoice/pic/blob/16e49ad372de95307cbbf40a83848b93e3f134a6/063003.png)
+![Power Consumption](https://github.com/blevoice/pic/blob/16e49ad372de95307cbbf40a83848b93e3f134a6/063013.png)
 
 ## 6. Power Consumption Note
 2.4G wireless inherently consumes more power. The typical power consumption is around 20-30mA, and currently, this is a design limitation that cannot be significantly reduced.
@@ -78,9 +78,9 @@ These values are excellent for gaming and multimedia scenarios where low latency
 ## 7. Hardware Block Diagrams
 
 ### Dongle Side
-![Dongle Block Diagram](https://github.com/blevoice/pic/blob/16e49ad372de95307cbbf40a83848b93e3f134a6/063004.jpeg)
+![Dongle Block Diagram](https://github.com/blevoice/pic/blob/16e49ad372de95307cbbf40a83848b93e3f134a6/063014.jpeg)
 *(Typically includes USB interface, JL7016M/7086E chip, 2.4G RF module, and antenna)*
 
 ### Headset Side
-![Headset Block Diagram](https://github.com/blevoice/pic/blob/16e49ad372de95307cbbf40a83848b93e3f134a6/063005.jpeg)
+![Headset Block Diagram](https://github.com/blevoice/pic/blob/16e49ad372de95307cbbf40a83848b93e3f134a6/063015.jpeg)
 *(Typically includes microphone, JL7083F/G chip, speaker/DAC output, battery/power management, and antenna)*
